@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    background-image: url(../multimedia/fondo.jpeg);
+    background-attachment: fixed;
+    background-size: cover;  
+  }
+  
+  main {
+    text-align: center;
+    background-color: bisque;
+    border-radius:  15px;
+    width: 50%;
+    margin: auto;
+  }
+  
+  .text {
+    height: 25px;
+  }
+  
+  .number {
+    height: 20px;
+  }
